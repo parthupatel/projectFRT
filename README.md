@@ -1,5 +1,5 @@
 # Future Ready Talent Project By Parth Patel | Pushti Parikh | Manan Samariya
-In fast pace of time today everyone is squeezed for time, people want to easily shopping without going to shop. The Website has ability to host allow a user to maintain the online shopping system. In the on-line grocery shop to provide many facilities like home delivery at the time, debit card/credit card/net banking/cash on delivery payments systems, add cart or remove etc. 
+In fast pace of time today everyone is squeezed for time, people want to easily shopping without going to shop. Our Website Provide A organic vegetable and fruits In the online grocery shop to provide many facilities like home delivery at the time, debit card/credit card/net banking/cash on delivery payments systems, add cart or remove etc. 
 
 # My website Link
 https://gentle-river-08c401c10.1.azurestaticapps.net/index.html
