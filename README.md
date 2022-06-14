@@ -1,7 +1,7 @@
 # Future Ready Talent Project By Parth Patel | Pushti Parikh | Manan Samariya
 In this busy world, people sometimes negotiate with there health by having processed food, frozen vegetables, etc.. Our website provide variety of organic fruits and vegetables at your door step. On website you will find all payment options and fastest delivery. 
 
-# My website Link
+# Website Link
 https://gentle-river-08c401c10.1.azurestaticapps.net/index.html
 
 # Home Page
